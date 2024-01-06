@@ -66,8 +66,14 @@ redirect_from:
     <div>Box dimensions of projected sets on typical self-affine sets</div>
 
 # 💻 Teaching Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
+- *2018- 2022*, Teaching assistant.
+    <div>- Fall 2018, Math 2050A (Mathematical Analysis I)</div>
+    <div>- Spring 2019, Math 2060A (Mathematical Analysis II)</div>
+    <div>- Fall 2019, Math 2010 (Advanced Calculus I)</div>
+    <div>- Spring 2020, Math 2040B (Linear Algebra II)</div>
+    <div>- Fall 2020, Math 4010 (Functional Analysis)</div>
+    <div>- Fall 2021, Math 2050B (Mathematical Analysis I)</div>
+    
 
 # 💻 Visits And Conference
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
