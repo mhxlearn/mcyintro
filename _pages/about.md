@@ -16,6 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<div style="font-weight: bold; font-size: 20px;">
+  My research mainly focuses on problems in fractal geometry, geometric measure theory, and dynamical systems.
+</div>
+
 
 
 
@@ -29,14 +33,14 @@ redirect_from:
 
 - A note on Hausdorff measures of self-similar sets in $R^d$. (joint with Yu-Feng Wu) [Annales Fennici Mathematici](https://afm.journal.fi/article/view/110908) 46 (2021), no.2, 957–963.
   
-- Dimensions of projected sets and measures on typical self-affine sets. (joint with De-Jun Feng and Chiu-Hong Lo)[Advances in Mathematics]() 431(2023), Paper No. 109237, 62 pp.  
+- Dimensions of projected sets and measures on typical self-affine sets. (joint with De-Jun Feng and Chiu-Hong Lo) [Advances in Mathematics]() 431(2023), Paper No. 109237, 62 pp.  
   
 - One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng)In preparation. 
 
 
 # 🎖 Honors and Awards
 - *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics. Department of Mathematics, The Chinese University of Hong Kong.
-- *2018- 2022* Hong Kong PhD Fellowship Award. Research Grants Council of Hong Kong. 
+- *2018-2022* Hong Kong PhD Fellowship Award. Research Grants Council of Hong Kong. 
 - *2018.02*    Pacemaker to Merit Student, Huazhong University of Science and Technology.
 - *2017.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
 - *2016.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
@@ -55,11 +59,11 @@ redirect_from:
     <div>-B.Sc. in Statistics</div>
 
 # 💬 Invited Talks
-- *2023.07.02-2023.07.07*, Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK. 
+- *July 2-7, 2023*, Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK. 
     <div>One-sided multifractal analysis of Gibbs measures on the line</div>
-- *2023.04.19*, Seminar, Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China.
+- *Apr 19th, 2023*, Seminar, Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China.
     <div>Box dimensions of projected sets on typical self-affine sets</div>
-- *2022.08.18*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
+- *August 18th, 2022*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
     <div>Box dimensions of projected sets on typical self-affine sets</div>
 
 # 💻 Teaching Experience
