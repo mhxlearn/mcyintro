@@ -58,10 +58,14 @@ redirect_from:
     <div>-B.Sc. in Statistics</div>
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.07.02-2023.07.07*, Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK. 
+    <div>One-sided multifractal analysis of Gibbs measures on the line</div>
+- *2023.04.19*, Seminar, Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China.
+    <div>Box dimensions of projected sets on typical self-affine sets</div>
+- *2022.08.18*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
+    <div>Box dimensions of projected sets on typical self-affine sets</div>
 
-# 💻 Internships
+# 💻 Internships  Academic Visits And Conference
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
