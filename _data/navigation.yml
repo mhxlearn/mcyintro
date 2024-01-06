@@ -22,5 +22,8 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
+    
+  - title: "Mytest"
+    url: "/#-mytest"
 
 
