@@ -3,8 +3,10 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+#  - title: "News"
+#    url: "/#-news"
+  - title: "Employment"
+    url: "/#-Employment"
 
   - title: "Publications"
     url: "/#-publications"
@@ -20,6 +22,5 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
-    
-  - title: "Mytest"
-    url: "/#-mytest"
+
+
