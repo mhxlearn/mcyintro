@@ -84,7 +84,7 @@ redirect_from:
      <div>Beihang University</div> 
 - *Jun 15- 23, 2019*, Academic visit
      <div>Huazhong University of Science and Technology</div> 
-- * Mar 24- 30, 2019*,Number Theory and Dynamics Conference
+- *Mar 24- 30, 2019*,Number Theory and Dynamics Conference
      <div>University of Cambridge</div> 
 - *Aug 10- 24, 2016*, Academic visit
      <div>Corpus Christi College, Cambridge</div> 
