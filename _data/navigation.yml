@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "EMPLOYMENT"
-    url: "/#-news"
+  - title: "Employment"
+    url: "/#-Employment"
 
   - title: "Publications"
     url: "/#-publications"
