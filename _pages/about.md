@@ -65,9 +65,9 @@ redirect_from:
 - *2022.08.18*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
     <div>Box dimensions of projected sets on typical self-affine sets</div>
 
-# 💻 Internships  Academic Visits And Conference
+# 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-# 💻 Mytest
+# 💻 Internships  Academic Visits And Conference
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
