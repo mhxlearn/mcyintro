@@ -51,9 +51,9 @@ redirect_from:
 
 # 📖 Educations
 - *2018- 2023*, The Chinese University of Hong Kong
-    <div>-Ph.D. in Mathematics
-    -Advisor: Prof. De-Jun Feng
-    -Thesis: One-sided multifractal analysis of Gibbs measures on the line</div>
+    <div>-Ph.D. in Mathematics</div>
+    <div>-Advisor: Prof. De-Jun Feng</div>
+    <div>-Thesis: One-sided multifractal analysis of Gibbs measures on the line</div>
 - *2014- 2018*, Huazhong University of Science and Technology
     <div>-B.Sc. in Statistics</div>
 
