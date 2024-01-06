@@ -69,5 +69,5 @@ redirect_from:
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-# 💻 Internships  Academic Visits And Conference
+# 💻 Visits And Conference
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
