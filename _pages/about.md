@@ -24,7 +24,7 @@ redirect_from:
 
 
 # 🔥  Employment
-- *Aug 2023- current*: The Chinese University of Hong Kong
+- *2023.08- current*: The Chinese University of Hong Kong
                        Postdoctoral Research Fellow
 - *Supervisor*:Prof. Zhong-Tao Wu
 
@@ -38,12 +38,24 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics. Department of Mathematics, The Chinese University of Hong Kong.
+- *2018- 2022* Hong Kong PhD Fellowship Award. Research Grants Council of Hong Kong. 
+- *2018.02*    Pacemaker to Merit Student, Huazhong University of Science and Technology.
+- *2017.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
+- *2016.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
+- *2016.03*    Third Prize of The Chinese Mathematics Competitions, Mathematics competition of Chinese College Students.
+- *2016.01*    Outstanding Undergraduates in Term of Academic Performance, Huazhong University of Science and Technology.
+- *2016.01*    National Schoclarship, Ministry of Education of the People’s Republic of China.
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit.. 
+- *2018- 2023*, The Chinese University of Hong Kong
+    -Ph.D. in Mathematics
+    -Advisor: Prof. De-Jun Feng
+    -Thesis: One-sided multifractal analysis of Gibbs measures on the line
+- *2014- 2018*, Huazhong University of Science and Technology
+    -B.Sc. in Statistics
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
