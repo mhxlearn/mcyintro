@@ -76,4 +76,15 @@ redirect_from:
     
 
 # 💻 Visits And Conference
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Jun 26- Jul 2, 2023*, Academic visit
+     <div>University of Manchester </div> 
+- *Nov 9- 15, 2019*, Academic visit
+     <div>South China University of Technology</div>
+- *Jul 15- 22, 2019*,  Summer school on “Geometric Measure Theory and Related Fields 2019”
+     <div>Beihang University</div> 
+- *Jun 15- 23, 2019*, Academic visit
+     <div>Huazhong University of Science and Technology</div> 
+- * Mar 24- 30, 2019*,Number Theory and Dynamics Conference
+     <div>University of Cambridge</div> 
+- *Aug 10- 24, 2016*, Academic visit
+     <div>Corpus Christi College, Cambridge</div> 
