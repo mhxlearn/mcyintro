@@ -35,7 +35,7 @@ redirect_from:
   
 - Dimensions of projected sets and measures on typical self-affine sets. (joint with De-Jun Feng and Chiu-Hong Lo) &nbsp;[Advances in Mathematics](https://doi.org/10.1016/j.aim.2023.109237) 431(2023), Paper No. 109237, 62 pp.  
   
-- One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng) &nbsp;In preparation. 
+- One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng)&nbsp;In preparation. 
 
 
 # 🎖 Honors and Awards
@@ -59,11 +59,11 @@ redirect_from:
     <div>-B.Sc. in Statistics</div>
 
 # 💬 Invited Talks
-- <div style="font-weight: bold;">Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK,Jul 2-7, 2023. </div>
+- <div style="font-weight: bold;">Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK, Jul 2-7, 2023. </div>
     <div>One-sided multifractal analysis of Gibbs measures on the line</div>
-- <div style="font-weight: bold;">Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China,Apr 19th, 2023, Seminar.</div>
+- <div style="font-weight: bold;">Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China, Apr 19th, 2023, Seminar.</div>
     <div>Box dimensions of projected sets on typical self-affine sets</div>
-- <div style="font-weight: bold;">Workshop on Fractal and Dynamic Systems, Anhui University, China,Aug 18th, 2022.</div>
+- <div style="font-weight: bold;">Workshop on Fractal and Dynamic Systems, Anhui University, China, Aug 18th, 2022.</div>
 
     <div>Box dimensions of projected sets on typical self-affine sets</div>
 
@@ -76,17 +76,3 @@ redirect_from:
     <div>- Fall 2020, Math 4010 (Functional Analysis)</div>
     <div>- Fall 2021, Math 2050B (Mathematical Analysis I)</div>
     
-
-# 💻 Visits And Conference
-- Academic visit, Jun 26- Jul 2, 2023
-     <div style="font-style: italic;">University of Manchester</div>
-- Academic visit, Nov 9- 15, 2019
-     <div style="font-style: italic;">South China University of Technology</div>
-- Summer school on “Geometric Measure Theory and Related Fields 2019”, Jul 15- 22, 2019
-     <div style="font-style: italic;">Beihang University</div>
-- Academic visit, Jun 15- 23, 2019
-     <div style="font-style: italic;">Huazhong University of Science and Technology</div>
-- Number Theory and Dynamics Conference, Mar 24- 30, 2019
-     <div style="font-style: italic;">University of Cambridge</div>
-- Academic visit, Aug 10- 24, 2016
-     <div style="font-style: italic;">Corpus Christi College, Cambridge</div>
