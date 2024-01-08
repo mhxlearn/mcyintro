@@ -59,11 +59,12 @@ redirect_from:
     <div>-B.Sc. in Statistics</div>
 
 # 💬 Invited Talks
-- *Jul 2-7, 2023*, Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK. 
+- <div style="font-style: italic; font-weight: bold;">Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK,Jul 2-7, 2023. </div>
     <div>One-sided multifractal analysis of Gibbs measures on the line</div>
-- *Apr 19th, 2023*, Seminar, Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China.
+- <div style="font-style: italic; font-weight: bold;">Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China,Apr 19th, 2023, Seminar.</div>
     <div>Box dimensions of projected sets on typical self-affine sets</div>
-- *Aug 18th, 2022*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
+- <div style="font-style: italic; font-weight: bold;">Workshop on Fractal and Dynamic Systems, Anhui University, China,Aug 18th, 2022.</div>
+
     <div>Box dimensions of projected sets on typical self-affine sets</div>
 
 # 💻 Teaching Experience
