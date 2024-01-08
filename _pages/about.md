@@ -27,7 +27,7 @@ redirect_from:
 # 🔥  Employment
 - *2023.08- current*: The Chinese University of Hong Kong
                        Postdoctoral Research Fellow
-- *Supervisor*:&nbsp; Prof. Zhong-Tao Wu
+- *Supervisor*: Prof. Zhong-Tao Wu
 
 # 📝 Publications 
 
@@ -78,15 +78,15 @@ redirect_from:
     
 
 # 💻 Visits And Conference
-- Academic visit,Jun 26- Jul 2, 2023
+- Academic visit, Jun 26- Jul 2, 2023
      <div style="font-style: italic;">University of Manchester</div>
-- Academic visit,Nov 9- 15, 2019
+- Academic visit, Nov 9- 15, 2019
      <div style="font-style: italic;">South China University of Technology</div>
-- Summer school on “Geometric Measure Theory and Related Fields 2019”,Jul 15- 22, 2019
+- Summer school on “Geometric Measure Theory and Related Fields 2019”, Jul 15- 22, 2019
      <div style="font-style: italic;">Beihang University</div>
-- Academic visit,Jun 15- 23, 2019
+- Academic visit, Jun 15- 23, 2019
      <div style="font-style: italic;">Huazhong University of Science and Technology</div>
-- Number Theory and Dynamics Conference,Mar 24- 30, 2019
+- Number Theory and Dynamics Conference, Mar 24- 30, 2019
      <div style="font-style: italic;">University of Cambridge</div>
-- Academic visit,Aug 10- 24, 2016
+- Academic visit, Aug 10- 24, 2016
      <div style="font-style: italic;">Corpus Christi College, Cambridge</div>
