@@ -40,13 +40,13 @@ redirect_from:
 
 # 🎖 Honors and Awards
 - *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics. *Department of Mathematics, The Chinese University of Hong Kong.*
-- *2018-2022* Hong Kong PhD Fellowship Award. Research Grants Council of Hong Kong. 
-- *2018.02*    Pacemaker to Merit Student, Huazhong University of Science and Technology.
-- *2017.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
-- *2016.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
+- *2018-2022* Hong Kong PhD Fellowship Award. *Research Grants Council of Hong Kong.*
+- *2018.02*    Pacemaker to Merit Student. *Huazhong University of Science and Technology.*
+- *2017.11*    National Schoclarship. *Ministry of Education of the People’s Republic of China.*
+- *2016.11*    National Schoclarship. *Ministry of Education of the People’s Republic of China.*
 - *2016.03*    Third Prize of The Chinese Mathematics Competitions, Mathematics competition of Chinese College Students.
-- *2016.01*    Outstanding Undergraduates in Term of Academic Performance, Huazhong University of Science and Technology.
-- *2016.01*    National Schoclarship, Ministry of Education of the People’s Republic of China.
+- *2016.01*    Outstanding Undergraduates in Term of Academic Performance. *Huazhong University of Science and Technology.*
+- *2016.01*    National Schoclarship. *Ministry of Education of the People’s Republic of China.*
 
 
 
@@ -59,11 +59,11 @@ redirect_from:
     <div>-B.Sc. in Statistics</div>
 
 # 💬 Invited Talks
-- *July 2-7, 2023*, Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK. 
+- *Jul 2-7, 2023*, Fractal Geometry Workshop, International Centre for Mathematical Sciences (ICMS), Edinburgh, UK. 
     <div>One-sided multifractal analysis of Gibbs measures on the line</div>
 - *Apr 19th, 2023*, Seminar, Shanghai Center for Mathematical Sciences(SCMS), Fudan University, China.
     <div>Box dimensions of projected sets on typical self-affine sets</div>
-- *August 18th, 2022*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
+- *Aug 18th, 2022*, Workshop on Fractal and Dynamic Systems, Anhui University, China.
     <div>Box dimensions of projected sets on typical self-affine sets</div>
 
 # 💻 Teaching Experience
@@ -77,8 +77,8 @@ redirect_from:
     
 
 # 💻 Visits And Conference
-- *Jun 26- Jul 2, 2023*, Academic visit
-     <div>University of Manchester </div> 
+- Academic visit,Jun 26- Jul 2, 2023
+     *<div>University of Manchester </div>* 
 - *Nov 9- 15, 2019*, Academic visit
      <div>South China University of Technology</div>
 - *Jul 15- 22, 2019*,  Summer school on “Geometric Measure Theory and Related Fields 2019”
