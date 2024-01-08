@@ -39,14 +39,14 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics. *Department of Mathematics, The Chinese University of Hong Kong.*
-- *2018-2022* Hong Kong PhD Fellowship Award. *Research Grants Council of Hong Kong.*
-- *2018.02*    Pacemaker to Merit Student. *Huazhong University of Science and Technology.*
-- *2017.11*    National Schoclarship. *Ministry of Education of the People’s Republic of China.*
-- *2016.11*    National Schoclarship. *Ministry of Education of the People’s Republic of China.*
-- *2016.03*    Third Prize of The Chinese Mathematics Competitions, Mathematics competition of Chinese College Students.
-- *2016.01*    Outstanding Undergraduates in Term of Academic Performance. *Huazhong University of Science and Technology.*
-- *2016.01*    National Schoclarship. *Ministry of Education of the People’s Republic of China.*
+- *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics, *Department of Mathematics, The Chinese University of Hong Kong.*
+- *2018-2022* Hong Kong PhD Fellowship Award, *Research Grants Council of Hong Kong.*
+- *2018.02*    Pacemaker to Merit Student, *Huazhong University of Science and Technology.*
+- *2017.11*    National Schoclarship, *Ministry of Education of the People’s Republic of China.*
+- *2016.11*    National Schoclarship, *Ministry of Education of the People’s Republic of China.*
+- *2016.03*    Third Prize of The Chinese Mathematics Competitions, *Mathematics competition of Chinese College Students.*
+- *2016.01*    Outstanding Undergraduates in Term of Academic Performance, *Huazhong University of Science and Technology.*
+- *2016.01*    National Schoclarship, *Ministry of Education of the People’s Republic of China.*
 
 
 
