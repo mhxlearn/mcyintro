@@ -27,19 +27,19 @@ redirect_from:
 # 🔥  Employment
 - *2023.08- current*: The Chinese University of Hong Kong
                        Postdoctoral Research Fellow
-- *Supervisor*:Prof. Zhong-Tao Wu
+- *Supervisor*:&nbsp; Prof. Zhong-Tao Wu
 
 # 📝 Publications 
 
 - A note on Hausdorff measures of self-similar sets in $R^d$. (joint with Yu-Feng Wu) &nbsp;  [Annales Fennici Mathematici](https://afm.journal.fi/article/view/110908) 46 (2021), no.2, 957–963.
   
-- Dimensions of projected sets and measures on typical self-affine sets. (joint with De-Jun Feng and Chiu-Hong Lo) &nbsp;  [Advances in Mathematics]() 431(2023), Paper No. 109237, 62 pp.  
+- Dimensions of projected sets and measures on typical self-affine sets. (joint with De-Jun Feng and Chiu-Hong Lo) &nbsp;  [Advances in Mathematics](https://doi.org/10.1016/j.aim.2023.109237) 431(2023), Paper No. 109237, 62 pp.  
   
-- One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng)In preparation. 
+- One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng) &nbsp; In preparation. 
 
 
 # 🎖 Honors and Awards
-- *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics. Department of Mathematics, The Chinese University of Hong Kong.
+- *2023.05*    Prof Ka-Sing Lau Scholarship for Mathematics. *Department of Mathematics, The Chinese University of Hong Kong.*
 - *2018-2022* Hong Kong PhD Fellowship Award. Research Grants Council of Hong Kong. 
 - *2018.02*    Pacemaker to Merit Student, Huazhong University of Science and Technology.
 - *2017.11*    National Schoclarship, Ministry of Education of the People’s Republic of China.
