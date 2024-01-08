@@ -35,7 +35,7 @@ redirect_from:
   
 - Dimensions of projected sets and measures on typical self-affine sets. (joint with De-Jun Feng and Chiu-Hong Lo) &nbsp;  [Advances in Mathematics](https://doi.org/10.1016/j.aim.2023.109237) 431(2023), Paper No. 109237, 62 pp.  
   
-- One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng) &nbsp; In preparation. 
+- One-sided multifractal analysis of Gibbs measures on the line. (joint with De-Jun Feng) &nbsp;In preparation. 
 
 
 # 🎖 Honors and Awards
